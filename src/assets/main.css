@@ -1,0 +1,5 @@
+@import './base.css';
+
+.pac-logo {
+  z-index: 1200 !important;
+}
